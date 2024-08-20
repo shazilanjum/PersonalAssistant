@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace PersonalAssistant.Application.Repository
 {
-    public class TodoRepository : ITodoRepository
+    public class TodosRepository : ITodoRepository
     {
         private readonly AssistantContext _context;
 
