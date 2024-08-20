@@ -1,0 +1,6 @@
+@PersonalAssistant.Api_HostAddress = http://localhost:5079
+
+GET {{PersonalAssistant.Api_HostAddress}}/Todo/
+Accept: application/json
+
+###
